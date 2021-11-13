@@ -7,20 +7,16 @@
 - 💬  Ask me about Sails.js, Fastify.js and Vue.js.
 - 📫  How to reach me: LinkedIn
 
-![Twitter Follow](https://img.shields.io/twitter/follow/jorgevrgs1?label=Follow)
+[![Twitter Follow](https://img.shields.io/twitter/follow/jorgevrgs1?label=Follow)](https://twitter.com/jorgevrgs1)
 [![Linkedin: jevargaslarrota](https://img.shields.io/badge/-jevargaslarrota-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jevargaslarrota/)](https://www.linkedin.com/in/jevargaslarrota/)
-![GitHub followers](https://img.shields.io/github/followers/jorgevrgs?label=Follow&style=social)
+[![GitHub followers](https://img.shields.io/github/followers/jorgevrgs?label=Follow&style=social)](https://github.com/jorgevrgs)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&&link=https://stackoverflow.com/users/6222600/jorge-vargas)](https://stackoverflow.com/users/6222600/jorge-vargas)
 
 ## Badges
 
 [![Windard's github stats](https://github-readme-stats.vercel.app/api?username=jorgevrgs&show_icons=true)](https://github.com/jorgevrgs)
 
-<p style="display:flex;justify-content:center;">
-  
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgevrgs&theme=blue-green)
-  
-</p>
 
 ## Coding
 
