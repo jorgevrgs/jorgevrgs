@@ -2,7 +2,7 @@
 
 ## Who am I?
 
-- 💻 Presently serving as a Senior Node.js Developer..
+- 💻 Presently serving as a Senior Node.js Developer.
 - ☁️ Enthusiastic AWS cloud developer.
 - 📚 Committed to perpetual learning in JavaScript.
 - 💬 Ask me about Sails.js, Fastify.js and Vue.js.
